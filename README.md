@@ -17,8 +17,8 @@ Aplicația oferă un meniu ușor de navigat pentru a diagnostica rapid consumul 
 
 ## 🚀 Cum se utilizează
 
-1. Clonează acest repository sau descarcă fișierul `monitor.sh` pe sistemul tău.
+1. Clonează acest repository sau descarcă fișierul `process-monitor.sh` pe sistemul tău.
 2. Deschide un terminal în folderul unde ai salvat scriptul.
 3. Acordă-i scriptului permisiuni de execuție:
    ```bash
-   chmod +x monitor.sh
+   chmod +x process-monitor.sh
